@@ -1,36 +1,4 @@
-<div align="center">
-
-<div align="center">
-	<h1>
-		<span class="typewriter">Hello I'am Ni'am</span>
-	</h1>
-</div>
-
-<style>
-.typewriter {
-	display: inline-block;
-	overflow: hidden;
-	border-right: .15em solid #6C63FF;
-	white-space: nowrap;
-	margin: 0 auto;
-	letter-spacing: .08em;
-	animation:
-		typing 2.5s steps(20, end) 1s 1 normal both,
-		blink-caret .75s step-end infinite;
-}
-@keyframes typing {
-	from { width: 0 }
-	to { width: 17ch }
-}
-@keyframes blink-caret {
-	from, to { border-color: transparent }
-	50% { border-color: #6C63FF; }
-}
-</style>
-
-**`Informatics Engineering Student · Front-End Developer · Cyber Security Enthusiast`**
-
-</div>
+## Hello I'am Ni'am 👋🏻
 
 ## About
 
