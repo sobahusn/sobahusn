@@ -1,53 +1,94 @@
-## Hello I'am Ni'am 👋🏻
+# Hi there, I'm Ni'am 👋
 
-## About
+> "Stay curious. Stay consistent. Build things that matter."
 
-Hi, I'm **Ni'am** — an Informatics Engineering student at **Universitas Muhammadiyah Sidoarjo**, with a background in Computer and Network Engineering from vocational school.
+### 🙋 About Me
 
-I'm currently focused on building my skills in **Web Development**, particularly on the **Front-End** side, while also exploring the world of **Cyber Security**. I believe that consistent effort and curiosity are the foundations of real growth in the technology field.
+I'm a second-semester Computer Science student at **Muhammadiyah University of Sidoarjo**. Coming from a vocational high school background in Computer and Network Engineering, I got into software engineering pretty early and haven't stopped since.
 
-> _"Stay curious. Stay consistent. Build things that matter."_
+Currently focused on **Full-Stack Development**, **Mobile Development**, and slowly diving into **AI/ML** — basically trying to get a feel for as much of the stack as possible before specializing.
 
-## Tech Stack
+- 🎓 Studying at **Universitas Muhammadiyah Sidoarjo** (Semester 2)
+- 🔭 Currently learning: Fullstack, Mobile Dev, ML/AI, Docker & DevOps
+
+- 📫 Reach me: [linkedin.com/in/sobahus-niam](https://linkedin.com/in/sobahus-niam)
+
+---
+
+### 🔧 Tech Stack
 
 **Languages**
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=fff)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=fff)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=fff)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=fff)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 
-**Frameworks & Libraries**
+**Back-end**
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=fff)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=fff)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=fff)
-![Bun](https://img.shields.io/badge/Bun-C08552?style=flat-square&logo=bun&logoColor=fff)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-000000?style=flat-square&logo=bun&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
-![Ni'am's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sobahusn&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+**Front-end**
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sobahusn&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=sobahusn&theme=tokyonight&hide_border=true)
+**Tools & Others**
 
-## Activity Graph
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-<div align="center">
+---
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sobahusn&theme=tokyo-night&hide_border=true&area=true)
+### 🚀 Projects
 
-</div>
+> Coming soon — currently cooking something interesting.
 
-## Connect
+<!-- Template: uncomment dan isi saat ada proyek -->
+<!--
+| Project | Description | Stack | Links |
+|---------|-------------|-------|-------|
+| **ProjectName** | Deskripsi singkat apa yang dilakukan app ini | `Next.js` `FastAPI` | [Repo](link) · [Demo](link) |
+| **ProjectName** | Deskripsi singkat apa yang dilakukan app ini | `Kotlin` `Node.js` | [Repo](link) |
+-->
 
-<div align="center">
+### 📊 GitHub Stats
 
-[![GitHub](https://img.shields.io/badge/GitHub-sobahusn-181717?style=flat-square&logo=github)](https://github.com/sobahusn)
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sobahusn&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sobahusn&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+</p>
 
-</div>
+<p align="center">
+  <img width="100%" src="https://streak-stats.demolab.com?user=sobahusn&theme=tokyonight&hide_border=true" />
+</p>
 
-<div align="center">
-<sub>Crafted with intention · Always learning · Built to last</sub>
-</div>
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sobahusn&theme=tokyo-night&hide_border=true&area=true" />
+</p>
+
+---
+
+### 🏆 GitHub Trophy
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sobahusn&theme=tokyonight&no-frame=true&column=6&margin-w=8" />
+</p>
+
+---
+
+<p align="center">
+  <a href="https://linkedin.com/in/sobahus-niam">
+    <img src="https://img.shields.io/badge/LinkedIn-sobahus--niam-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/sobahusn">
+    <img src="https://img.shields.io/badge/GitHub-sobahusn-181717?style=for-the-badge&logo=github" />
+  </a>
+</p>
