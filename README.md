@@ -46,12 +46,11 @@ Currently focused on **Full-Stack Development**, **Mobile Development**, and slo
 
 ### 📚 Currently Learning
 
-> Auto-updated dari WakaTime & GitHub repo · Last sync: 01 May 2026
-
 ```
 Jupyter / Python  ██████████  100%
 Python            ░░░░░░░░░░  0%
 ```
+
 ---
 
 <p align="center">
