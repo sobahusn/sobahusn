@@ -44,30 +44,9 @@ Currently focused on **Full-Stack Development**, **Mobile Development**, and slo
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
+### 📚 Currently Learning
+
 ---
-
-### 🚀 Projects
-
-> Coming soon — currently cooking something interesting.
-
-<!-- Template: uncomment dan isi saat ada proyek -->
-<!--
-| Project | Description | Stack | Links |
-|---------|-------------|-------|-------|
-| **ProjectName** | Deskripsi singkat apa yang dilakukan app ini | `Next.js` `FastAPI` | [Repo](link) · [Demo](link) |
-| **ProjectName** | Deskripsi singkat apa yang dilakukan app ini | `Kotlin` `Node.js` | [Repo](link) |
--->
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sobahusn&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sobahusn&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://streak-stats.demolab.com?user=sobahusn&theme=tokyonight&hide_border=true" />
-</p>
 
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sobahusn&theme=tokyo-night&hide_border=true&area=true" />
