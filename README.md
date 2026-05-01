@@ -44,7 +44,9 @@ Currently focused on **Full-Stack Development**, **Mobile Development**, and slo
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-### 📚 Currently Learning
+### Currently Working On
+
+> Auto-updated dari WakaTime & GitHub repo · Last sync: 01 May 2026
 
 ```
 Jupyter / Python  ██████████  100%
