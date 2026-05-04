@@ -47,10 +47,13 @@ Currently focused on **Full-Stack Development**, **Mobile Development**, and slo
 ### Currently Working On
 
 ```
-Jupyter / Python  ██████████  100%
-Python            ░░░░░░░░░░  0%
+Jupyter(Python)  ██████████  100%
+TypeScript       ████░░░░░░  42%
+Python           ██░░░░░░░░  24%
+Shell/Bash       █░░░░░░░░░  10%
+JavaScript       █░░░░░░░░░  6%
+YAML/Config      ░░░░░░░░░░  2%
 ```
-
 ---
 
 <p align="center">
