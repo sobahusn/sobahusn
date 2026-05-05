@@ -48,10 +48,10 @@ Currently focused on **Full-Stack Development**, **Mobile Development**, and slo
 
 ```
 Jupyter(Python)  ██████████  100%
-TypeScript       ████░░░░░░  42%
-Python           ██░░░░░░░░  24%
-Shell/Bash       █░░░░░░░░░  10%
-JavaScript       █░░░░░░░░░  6%
+TypeScript       ███░░░░░░░  33%
+Python           ██░░░░░░░░  25%
+Shell/Bash       █░░░░░░░░░  8%
+JavaScript       ░░░░░░░░░░  5%
 YAML/Config      ░░░░░░░░░░  2%
 ```
 ---
