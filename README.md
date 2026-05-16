@@ -1,6 +1,6 @@
 # Hi there, I'm Ni'am 👋
 
-## About Me
+### About Me
 
 I'm a second-semester Computer Science student at **Muhammadiyah University of Sidoarjo**. Coming from a vocational high school background in Computer and Network Engineering, I got into software engineering pretty early and haven't stopped since.
 
@@ -9,12 +9,11 @@ Currently focused on **Full-Stack Development**, **Mobile Development**, and slo
 - 🎓 Studying at **Universitas Muhammadiyah Sidoarjo** (Semester 2)
 - 🔭 Currently learning: Fullstack Dev, AI Engineer, Mobile Dev
 
-## 📫 Reach me:
+### 📫 Reach me:
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sobahusn)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sobahus-niam)
 [![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sobahusn27@gmail.com)
-[![Instagram](https://img.shields.io/badge/-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sobahusn)
+[![Instagram](https://img.shields.io/badge/-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sobahusn27)
 
 </br>
 
