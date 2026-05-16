@@ -7,7 +7,7 @@ I'm a second-semester Computer Science student at **Muhammadiyah University of S
 Currently focused on **Full-Stack Development**, **Mobile Development**, and slowly diving into **AI/ML** — basically trying to get a feel for as much of the stack as possible before specializing.
 
 - 🎓 Studying at **Universitas Muhammadiyah Sidoarjo** (Semester 2)
-- 🔭 Currently learning: Fullstack, Mobile Dev, ML/AI, Docker & DevOps
+- 🔭 Currently learning: Fullstack Dev, AI Engineer, Mobile Dev
 
 ## 📫 Reach me:
 
