@@ -5,7 +5,7 @@
 ### About Me
 Just a guy who likes breaking things to understand how they work, and occasionally building software from scratch.
 
-Currently spending most of my nights digging into **Linux internals**, **Networking**, and **Cyber Security**. I still write full-stack code purely for fun and personal projects mostly tinkering with **Python**, **TypeScript/JavaScript**, and other tools that catch my interest.
+Currently spending most of my nights digging into **Linux internals**, **Networking**, and **Cyber Security**. I still write full-stack code purely for fun and personal projects mostly tinkering with Python, TypeScript/JavaScript, and other tools that catch my interest.
 
 No fancy titles, just learning in public and trying to build useful, resilient stuff along the way.
 
